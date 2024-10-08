@@ -2,6 +2,7 @@
 
 ## Implementation
 Which features you included.
+Walk animations, idle animation, jump animation, character sprite.
 
 ## References
 
@@ -12,4 +13,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Aiden Pridemore
